@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[]" width="600"/>
+  <img src="[Code Hacking GIF by Pizza Ninjas.gif]" width="600"/>
 </p>
 
 # Hi there 👋, I'm Amin Mubarek!!
@@ -78,6 +78,7 @@
 ---
 
 ⚡ Fun fact: *I enjoy breaking down complex networks and making them simple to understand!*
+
 
 
 
