@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[banner.gif]" width="600"/>
+  <img src="[Mubarek-Amin/banner.gif]" width="600"/>
 </p>
 
 # Hi there 👋, I'm Amin Mubarek!!
@@ -78,6 +78,7 @@
 ---
 
 ⚡ Fun fact: *I enjoy breaking down complex networks and making them simple to understand!*
+
 
 
 
