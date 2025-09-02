@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="(https://media.giphy.com/media/UCQ5LookOT2ufbsGiT/giphy.gif)" width="600"/>
+  <img src="[https://media.giphy.com/media/UCQ5LookOT2ufbsGiT/giphy.gif]" width="600"/>
 </p>
 
 # Hi there 👋, I'm Amin Mubarek!!
@@ -72,4 +72,5 @@
 ---
 
 ⚡ Fun fact: *I enjoy breaking down complex networks and making them simple to understand!*
+
 
