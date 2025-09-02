@@ -7,10 +7,16 @@
 🎓 IT student at **Middlesex University** | 🌐 Networking & DevOps Enthusiast
 
 <div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=Mubarek-Amin&color=blue&style=flat-square)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mubarek-Amin&layout=compact&theme=tokyonight)
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mubarek-Amin&show_icons=true&theme=tokyonight)
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Mubarek-Amin&color=blue&style=flat-square" alt="Profile Views"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mubarek-Amin&layout=compact&theme=tokyonight" alt="Top Languages"/>
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Mubarek-Amin&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
 </div>
+
 
 ---
 
@@ -72,5 +78,6 @@
 ---
 
 ⚡ Fun fact: *I enjoy breaking down complex networks and making them simple to understand!*
+
 
 
