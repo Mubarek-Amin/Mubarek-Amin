@@ -4,7 +4,7 @@
 
 # Hi there 👋, I'm Amin Mubarek!!
 
-🎓 IT student at **Middlesex University** | 🌐 Networking & DevOps Enthusiast
+🌐 Networking & DevOps Specialist
 
 <div align="center">
   <!-- Profile Views -->
@@ -78,6 +78,7 @@
 ---
 
 ⚡ Fun fact: *I enjoy breaking down complex networks and making them simple to understand!*
+
 
 
 
